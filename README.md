@@ -1,10 +1,6 @@
-# Event Management API
+# Event Management App
 
-Full-stack take-home exercise: a REST API for events and attendee registrations (FastAPI, in-memory storage) plus a React (Vite) SPA to manage them.
-
-Authentication is out of scope. Identify attendees with a free-form **User ID** (for example an email) when registering.
-
-> **Note:** All data lives in memory and is lost when the API process restarts.
+This is an app for managing events and attendee registration.
 
 ## Prerequisites
 
